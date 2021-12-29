@@ -28,19 +28,4 @@ export class UI {
     }
   }
 
-  showScores(score) {
-    const gameOverHTML = `
-      <h1>Resultado</h1>
-      <h2 id="score">Tu Puntaje es : ${score}</h2>
-      `;
-    // <h2 id="score">Your scores: ${quiz.score}</h2>
-
-    const element = document.getElementById("quiz");
-    element.innerHTML = gameOverHTML;
-  }
-
-  showProgress(currentIndex, total) {
-    var element = document.getElementById("progress");
-    element.innerHTML = `Pregunta ${currentIndex} of ${total}`;
-  }
 }
