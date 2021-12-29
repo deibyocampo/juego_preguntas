@@ -1,0 +1,3 @@
+## Juego de Preguntas
+
+En este proyecto es pensado para practicar mi logica de programacion y asi aumentar mis conocimientos en programacion y para ello opte por crear este repo y compartir proyectos donde pueda ver reflejado mi crecimiento y conocimiento en la programacion, este juego de preguntas esta construido con POO en el lenguaje de programacion Javascript, y tiene como funcionamiento responder preguntas aleatorias con opcion multiple, teniendo en cuenta que al final de las preguntas recibira un puntaje de las preguntas que haya acertado durante el juego.
